@@ -68,6 +68,7 @@ Note: Can be used with `megalinter/megalinter@beta` in your GitHub Action mega-l
   - [cfn-lint](https://github.com/martysweet/cfn-lint) from 0.58.2 to **0.58.3** on 2022-03-09
   - [swiftlint](https://github.com/realm/SwiftLint) from 0.46.4 to **0.46.5** on 2022-03-09
   - [checkov](https://www.checkov.io/) from 2.0.924 to **2.0.927** on 2022-03-09
+  - [checkov](https://www.checkov.io/) from 2.0.927 to **2.0.929** on 2022-03-09
 <!-- linter-versions-end -->
 
 - New linter `kubeconform` to validate Kubernetes manifests with updated schemas
